@@ -72,5 +72,24 @@ body {
 
 .bio{
     display: flex;
-    flex-direction: column;
+    flex-direction:row;
+    background-color: rgb(29, 29, 32);
+}
+
+.pic2{
+    width: 504px;
+    height: 539px;
+
+}
+
+.photo{
+padding: 30px;
+margin: 30px;
+}
+
+.me-info{
+    justify-content: end;
+    color: #fff;
+    text-align: justify;
+    width: 504px;
 }
