@@ -58,6 +58,12 @@ body {
   padding-top: 70px;
 } */
 
+.second{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(29, 29, 32);
+}
+
 .info{
     color: #fff;
 }
@@ -73,7 +79,6 @@ body {
 .bio{
     display: flex;
     flex-direction:row;
-    background-color: rgb(29, 29, 32);
 }
 
 .pic2{
@@ -92,4 +97,18 @@ margin: 30px;
     color: #fff;
     text-align: justify;
     width: 504px;
+}
+
+.bt{
+   text-align: center; 
+}
+.button{
+    background-color: #fc8a20;
+    color: #fff;
+    border-radius: 30px;
+    border-color: #fc8a20;
+    width: 200px;
+    height: 40px;
+    font-size: large;
+    font-weight: bold;
 }
