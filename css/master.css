@@ -149,10 +149,17 @@ margin: 30px;
     border: 2px solid #fc8a20;
     margin: 30px;
     color: #fff;
-    background-color:rgb(30, 30, 30)
+    background-color:rgb(30, 30, 30);
+    text-align: center;
     
 }
 
 .card1:hover{
     background-color: #fc8a20;
+}
+
+.pic2-1{
+    width: 504px;
+    height: 500px;
+
 }
