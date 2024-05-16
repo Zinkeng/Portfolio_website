@@ -163,3 +163,39 @@ margin: 30px;
     height: 500px;
 
 }
+
+.footer{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  justify-content: center;
+    
+}
+
+.section{
+    display: flex;
+    flex-direction: column;
+    border-right: 2px solid #fc8a20;
+    padding: 20px;
+}
+
+.foot-link{
+    text-decoration: none;
+    font-size: large;
+    color: #fff;
+
+}
+
+.name{
+    color: #fff;
+}
+
+.bottom{
+    display: flex;
+    flex-direction: row;
+}
+
+.fname{
+    padding: 20px;
+}
