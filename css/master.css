@@ -97,7 +97,7 @@ margin: 30px;
 }
 
 .me-info{
-    justify-content: end;
+    
     color: #fff;
     text-align: justify;
     width: 504px;
@@ -152,6 +152,7 @@ margin: 30px;
     color: #fff;
     background-color:rgb(30, 30, 30);
     text-align: center;
+    padding: 0 0 0 30px;
     
 }
 
@@ -171,6 +172,7 @@ margin: 30px;
     flex-direction: row;
     align-items: center;
   justify-content: center;
+  padding-top: 40px;
     
 }
 
@@ -185,6 +187,7 @@ margin: 30px;
     text-decoration: none;
     font-size: large;
     color: #fff;
+    padding: 10px;
 
 }
 
@@ -198,5 +201,24 @@ margin: 30px;
 }
 
 .fname{
-    padding: 20px;
+    padding: 10px;
+}
+
+.last{
+    display: flex;
+    flex-direction: column;
+    background-color: black ;
+  
+}
+
+.last-2{
+   text-align: center;
+   padding: 10px;
+   background-color: black ;
+  
+}
+
+.submit{
+    display: flex;
+    flex-direction: row;
 }
